@@ -26,7 +26,7 @@ Built for SREs who want **confidence, not magic**.
 
 ```bash
 # Requires: Docker, k3d, Python 3.10+
-git clone https://github.com/yourorg/autonoma-core.git
+git clone https://github.com/solankiboy939/Autonoma.git
 cd autonoma-core
 make dev-env       # Spins up k3d cluster + demo app
 make run           # Starts Autonoma agent
