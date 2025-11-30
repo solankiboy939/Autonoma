@@ -1,6 +1,6 @@
 # Autonoma
 
-> **Augmented Autonomy for Cloud-Native Operations**  
+> **The Project Chimera Augmented Autonomy for Cloud-Native Operations**  
 > Reduce MTTR by 50%+ with AI-assisted root cause analysis and safe, human-approved remediation.
 
 Autonoma is **not** an "autonomous AI." It’s a **reinforcement learning system** that:
